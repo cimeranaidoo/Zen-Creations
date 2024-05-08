@@ -25,13 +25,14 @@ h1 {
   right: 10px;
   top: 10px;
   z-index: 1100;
+  color: white;
 }
 
 .contact-link {
   border: 0 5px 10px rgba(0, 0, 0, 0.3);
   color: white;
   background-color: #69b3b8;
-  padding: 4px 15px 4px 15px;
+  padding: 4px 25px 4px 25px;
   border-radius: 25px;
   font-size: 15px;
   margin-top: 5px;
@@ -60,11 +61,179 @@ h1 {
   border: 0 5px 10px rgba(0, 0, 0, 0.3);
   color: white;
   background-color: #69b3b8;
-  padding: 4px 15px 4px 15px;
+  padding: 4px 13px 4px 15px;
   border-radius: 25px;
   font-size: 15px;
   margin-top: 5px;
   text-decoration: none;
-  margin-bottom: 270px;
+  margin-bottom: 210px;
   max-width: 125px;
+}
+h2 {
+  font-family: "Raleway", sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+}
+.header-section-three {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 130px;
+  margin-bottom: 100px;
+}
+
+.card-img-top {
+  max-width: 250px;
+}
+
+.max-width-card {
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.card-img-top {
+  max-width: 100px;
+  height: auto;
+}
+
+.card-body {
+  font-family: "Raleway", sans-serif;
+}
+
+.service-cta {
+  font-family: "Raleway", sans-serif;
+  font-size: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.services-link {
+  border: 0 5px 10px rgba(0, 0, 0, 0.3);
+  color: white;
+  background-color: #69b3b8;
+  padding: 4px 25px 4px 25px;
+  border-radius: 25px;
+  font-size: 15px;
+  margin-top: 5px;
+  text-decoration: none;
+  margin-bottom: 100px;
+}
+
+h3 {
+  font-family: "Raleway", sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  margin-top: 50px;
+}
+
+.cta-section-four {
+  background-color: black;
+}
+
+.cta-section-p {
+  font-family: "Raleway", sans-serif;
+  color: white;
+  text-align: center;
+  padding: 0px 60px 0px 60px;
+}
+
+.cta-link {
+  border: 0 5px 10px rgba(0, 0, 0, 0.3);
+  color: white;
+  background-color: #69b3b8;
+  padding: 4px 25px 4px 25px;
+  border-radius: 25px;
+  font-size: 15px;
+  margin-top: 5px;
+  text-decoration: none;
+  margin-bottom: 50px;
+}
+
+.portfolio-section-heading {
+  font-family: "Raleway", sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  color: black;
+  margin-top: 100px;
+}
+
+.portfolio-img {
+  max-width: 500px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+h4 {
+  font-family: "Raleway", sans-serif;
+  font-size: 22px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.footer-section-six {
+  background-color: black;
+  padding-top: 70px;
+}
+
+h5 {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  color: white;
+  padding-bottom: 50px;
+}
+
+.footer-nav-link {
+  font-size: 13px;
+  text-decoration: none;
+}
+
+.facebook-icon {
+  max-width: 27px;
+}
+.instagram-icon {
+  max-width: 20px;
+}
+
+.border-white {
+  border: 1px solid white;
+}
+
+.LinkedIn-icon {
+  max-width: 20px;
+}
+
+.X-icon {
+  max-width: 20px;
+}
+
+.icons-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.icon-item {
+  margin: 0 5px;
+}
+
+h6 {
+  font-size: 10px;
+  text-align: center;
+  color: white;
+  padding-bottom: 80px;
+}
+
+.navbar-toggler-footer {
+  color: white;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  border-radius: 8px;
 }
