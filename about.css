@@ -33,7 +33,7 @@ h1 {
 }
 
 .mission-vision-container {
-  margin: 30px 200px 30px 20px;
+  margin: 30px 20px 30px 20px;
 }
 .mission-vision-section-two {
   background-image: url("img/about.img/desk-background.jpg");
@@ -47,7 +47,7 @@ h1 {
 }
 
 .vision-p {
-  margin: 30px 130px 130px 40px;
+  margin: 30px 40px 40px 40px;
   padding: 0px 30px 0px 40px;
   text-align: justify;
   font-family: "Raleway", sans-serif;
@@ -61,7 +61,7 @@ h1 {
 }
 
 .mission-p {
-  margin: 30px 130px 130px 40px;
+  margin: 30px 40px 30px 40px;
   padding: 0px 50px 0px 40px;
   text-align: justify;
   font-family: "Raleway", sans-serif;
