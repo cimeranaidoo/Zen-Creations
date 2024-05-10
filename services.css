@@ -1,0 +1,187 @@
+.services-section-one {
+  background-image: url(img/services.img/service-jumbotron.jpg);
+  background-size: cover;
+}
+
+.container-fluid {
+  padding-bottom: 60px;
+}
+
+h1 {
+  font-family: "Raleway", sans-serif;
+  font-size: 4em;
+  color: white;
+  font-weight: bold;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  padding-bottom: 550px;
+}
+
+.services-section-two {
+  background-color: black;
+  margin-top: 0px;
+}
+
+.services-intro-p {
+  font-family: "Raleway", sans-serif;
+  color: white;
+  font-size: 17px;
+  text-align: center;
+  padding-top: 70px;
+  padding-right: 100px;
+  padding-left: 100px;
+  margin-bottom: 0px;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.flex-container img {
+  align-self: flex-start;
+  padding-top: 20px;
+  padding-left: 10px;
+}
+
+.flex-container-2 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.container-branding {
+  padding-top: 100px;
+}
+
+.container-marketing {
+  padding-top: 200px;
+}
+
+.branding-img {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+.marketing-img {
+  padding-top: 50px;
+  padding-left: 80px;
+}
+
+.interiors-img {
+  padding-right: 0px;
+  margin-right: 0px;
+}
+
+h3,
+h5,
+p {
+  font-family: "Raleway", sans-serif;
+}
+
+h5 {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  padding-left: 150px;
+}
+h3 {
+  padding-top: 70px;
+  padding-left: 150px;
+}
+
+.branding-p-2 {
+  padding-top: 150px;
+  padding-left: 150px;
+  padding-bottom: 60px;
+}
+
+.branding-p-1 {
+  padding-left: 150px;
+}
+
+.container-design {
+  padding-top: 100px;
+}
+
+#column-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.column-container img {
+  margin-left: auto;
+}
+
+.container-marketing {
+  padding-bottom: 200px;
+}
+
+.container-interiors {
+  padding-top: 200px;
+}
+
+.footer-section-four {
+  background-color: black;
+  padding-top: 70px;
+}
+
+h5 {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  color: white;
+  padding-bottom: 50px;
+}
+
+.footer-nav-link {
+  font-size: 13px;
+  text-decoration: none;
+}
+
+.facebook-icon {
+  max-width: 27px;
+}
+.instagram-icon {
+  max-width: 20px;
+}
+
+.border-white {
+  border: 1px solid white;
+}
+
+.LinkedIn-icon {
+  max-width: 20px;
+}
+
+.X-icon {
+  max-width: 20px;
+}
+
+.icons-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.icon-item {
+  margin: 0 5px;
+}
+
+h6 {
+  font-size: 10px;
+  text-align: center;
+  color: white;
+  padding-bottom: 80px;
+}
+
+.navbar-toggler-footer {
+  color: white;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.footer-email {
+  text-align: center;
+  padding-left: 0px;
+}
