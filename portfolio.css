@@ -1,0 +1,59 @@
+.nav-section-one {
+  padding-bottom: 50px;
+}
+
+.intro-section-two {
+  background-image: url(img/portfolio.img/portfolio-intro.jpg);
+  background-size: cover;
+}
+
+h1 {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  padding-top: 200px;
+}
+
+.jumbotron-p {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  font-size: 17px;
+  padding: 40px 20px 0px 20px;
+  font-weight: normal;
+  line-height: 30px;
+}
+
+.navbar-toggler {
+  position: relative;
+  right: 10px;
+  top: 10px;
+  z-index: 1100;
+  color: white;
+}
+
+.contact-link {
+  border: 0 5px 10px rgba(0, 0, 0, 0.3);
+  color: white;
+  background-color: #69b3b8;
+  padding: 4px 25px 4px 25px;
+  border-radius: 25px;
+  font-size: 15px;
+  margin-top: 5px;
+  text-decoration: none;
+  margin-bottom: 270px;
+}
+
+.images-section-three {
+  padding-top: 200px;
+}
+
+.col-sm-12 {
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.reception-design {
+  max-width: 100%;
+  height: auto;
+}
