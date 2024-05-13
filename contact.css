@@ -1,0 +1,13 @@
+.intro-image-section {
+  background-image: url(img/contact.img/contact-intro.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 1000px;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-size: 40px;
+}
