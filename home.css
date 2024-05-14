@@ -27,6 +27,9 @@ h1 {
   z-index: 1100;
   color: white;
 }
+.navbar-collapse {
+  z-index: 1000;
+}
 
 .contact-link {
   border: 0 5px 10px rgba(0, 0, 0, 0.3);
@@ -69,6 +72,7 @@ h1 {
   margin-bottom: 210px;
   max-width: 125px;
 }
+
 h2 {
   font-family: "Raleway", sans-serif;
   font-size: 40px;

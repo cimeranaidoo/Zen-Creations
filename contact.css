@@ -3,7 +3,7 @@
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  height: 1000px;
+  height: 800px;
 }
 
 h2 {
@@ -11,8 +11,9 @@ h2 {
   font-family: "Raleway", sans-serif;
   font-size: 40px;
   font-weight: bold;
+  margin-top: 0px;
 }
-.map-section {
+.map-section-four {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -20,6 +21,75 @@ h2 {
 }
 
 .iframe-container {
-  width: 1000px; /* Adjusted width */
+  width: 1000px;
   height: 450px;
+}
+.form-container {
+  margin-top: 50px;
+  margin-left: 60px;
+  margin-right: 60px;
+  display: flex;
+  justify-content: center;
+}
+.footer-section-five {
+  background-color: black;
+  padding-top: 70px;
+}
+
+h5 {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  color: white;
+  padding-bottom: 50px;
+}
+
+.footer-nav-link {
+  font-size: 13px;
+  text-decoration: none;
+}
+
+.facebook-icon {
+  max-width: 27px;
+}
+.instagram-icon {
+  max-width: 20px;
+}
+
+.border-white {
+  border: 1px solid white;
+}
+
+.LinkedIn-icon {
+  max-width: 20px;
+}
+
+.X-icon {
+  max-width: 20px;
+}
+
+.icons-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.icon-item {
+  margin: 0 5px;
+}
+
+h6 {
+  font-family: "Raleway", sans-serif;
+  font-size: 10px;
+  text-align: center;
+  color: white;
+  padding-bottom: 80px;
+}
+
+.navbar-toggler-footer {
+  color: white;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  border-radius: 8px;
 }
